@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=ArcoLinux Slice
+Description=Simple SDDM theme.
+Author=RadRussianRus
+Copyright=(c) 2020, RadRussianRus
+License=CC-BY-SA
+Type=sddm-theme
+Screenshot=screenshot.png
+Website=https://github.com/arcolinux/arcolinux-sddm-slice
+Version=1.5.1
+MainScript=Main.qml
+TranslationsDirectory=translations
+ConfigFile=theme.conf
+Theme-Id=arcolinux-slice
